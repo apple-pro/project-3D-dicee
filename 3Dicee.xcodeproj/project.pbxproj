@@ -57,11 +57,11 @@
 			isa = PBXGroup;
 			children = (
 				F05982212511A141008D4B77 /* AppDelegate.swift */,
-				F05982232511A141008D4B77 /* art.scnassets */,
 				F05982252511A141008D4B77 /* ViewController.swift */,
 				F05982272511A141008D4B77 /* Main.storyboard */,
-				F059822A2511A143008D4B77 /* Assets.xcassets */,
 				F059822C2511A143008D4B77 /* LaunchScreen.storyboard */,
+				F05982232511A141008D4B77 /* art.scnassets */,
+				F059822A2511A143008D4B77 /* Assets.xcassets */,
 				F059822F2511A143008D4B77 /* Info.plist */,
 			);
 			path = 3Dicee;
